@@ -1,4 +1,4 @@
-### Hi there, I'm Jenkey2011, Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=jenkey2011.jenkey2011)
+### Hi there, I'm Jenkey2011, Glad to see you here! &nbsp; ![](https://count.jenkey2011.xyz/badge?id=jenkey2011.jenkey2011)
 
 I am a full-time front-end development engineer, currently working in [Baidu](https://github.com/baidu) in Beijing, China. I love programming, writing and traveling.
 
